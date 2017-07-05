@@ -5,11 +5,20 @@ output:
     toc: false
 ---
 
-The goal of this new template is to simplify the setup and maintenance of a research website.
-Specifically,
+This is a repository hosting the scripts demonstrating the performance and applicatrions of the **pathtpx** and **pathflash** packages. 
 
-*  Easier to build and extend the website using the new tools in the [rmarkdown][] package and [latest RStudio release][rstudio]
-*  Easier to deploy the website with Git and GitHub by only using one branch
+## Simulation Examples 
 
-[rmarkdown]: http://rmarkdown.rstudio.com/rmarkdown_websites.htm
-[rstudio]: https://www.rstudio.com/products/rstudio/download/preview/
+[Simulation design 1](sim_pathtpx_1.html)
+
+[Simulation design 2](sim_pathtpx_2.html)
+
+[Simulation design 3](sim_pathtpx_3.html)
+
+[Simulation design 4](sim_pathtpx_4.html)
+
+## Real applications 
+
+[Leng et al (Oscope) analysis](leng_pathtpx.html)
+
+[aRchaic damage signature analysis](aRchaic_pathtpx.html)
