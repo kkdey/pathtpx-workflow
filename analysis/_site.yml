@@ -1,9 +1,9 @@
-name: pathtpx-workflow
+name: pathtpx_workflow
 output_dir: "../docs"
 include: [".nojekyll"]
 exclude: ["include"]
 navbar:
-  title: pathtpx-workflow
+  title: pathtpx_workflow
   left:
     - text: "Home"
       href: index.html
